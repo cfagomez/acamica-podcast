@@ -368,9 +368,8 @@ section {
     text-transform: uppercase;
 }
 
-.footer-items img {
-    width: 18px;
-    height: 28px;
+.footer-items i {
+    font-size: 20px;
     color: #060A24;
 }
 
@@ -572,9 +571,5 @@ section {
 
     .footer-items {
         padding: 10px;
-    }
-
-    .footer-items img {
-        width: 14px;
     }
 }
